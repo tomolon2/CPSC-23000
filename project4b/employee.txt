@@ -1,0 +1,12 @@
+S 123 Martha Perez 56785.59
+H 435 Joe Smith 42.5 14.67
+C 356 Anthony Mendez 30563.56 0.032 57864.53
+P 452 Jimmy James 1.59 267
+H 217 Fernando Roman 39.5 11.90
+P 765 Monica Ramos 0.89 1923
+S 862 Oscar McFly 78245.45
+H 923 Jennifer Acosta 45.25 12.67
+C 442 Randy Moreno 35788.90 0.025 45872.12
+S 213 Margaret Philips 80425.56
+P 324 Alma Montes 1.25 2000
+C 884 Marco Duarte 37432.78 0.022 50892.55
