@@ -1,0 +1,29 @@
+Employee Weekly Pay Report
+================================================================================
+
+Employee Type, Record Definition
+
+Hourly
+Emp Type, Emp Num, First Name, Last Name, Hours Worked, Wage Rate
+Hourly,435,Joe,Smith,42.50,14.67
+Hourly,217,Fernando,Roman,39.50,11.90
+Hourly,923,Jennifer,Acosta,45.25,12.67
+
+Salary
+Emp Type, Emp Num, First Name, Last Name, Yearly Salary
+Salary,123,Martha,Perez,56785.59
+Salary,862,Oscar,McFly,78245.45
+Salary,213,Margaret,Philips,80425.56
+
+Commission
+Emp Type, Emp Num, First Name, Last Name, Yearly Salary, Commission Rate, Sales
+Commission,356,Anthony,Mendez,30563.56,0.032,57864.53
+Commission,442,Randy,Moreno,35788.90,0.025,45872.12
+Commission,884,Marco,Duarte,37432.78,0.022,50892.55
+
+Piece
+Emp Type, Emp Num, First Name, Last Name, Wage per Piece, Number of Pieces
+Piece,452,Jimmy,James,1.59,267
+Piece,765,Monica,Ramos,0.89,1923
+Piece,324,Alma,Montes,1.25,2000
+
