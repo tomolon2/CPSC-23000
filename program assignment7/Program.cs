@@ -83,7 +83,7 @@ class Program
 			}
 			catch
 			{
-				// ignore non-query parts
+				
 			}
 		}
 	}
