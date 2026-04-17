@@ -1,0 +1,10 @@
+InvoiceNumber,LineNumber,ProductCode,ProductDescription,LineUnits,LinePrice,LineTotal
+1002,1,54778-2T,Rat-tail file, 1/8-in. fine,2,4.99,9.98
+1004,1,54778-2T,Rat-tail file, 1/8-in. fine,3,4.99,14.97
+1004,2,23109-HB,Claw hammer,2,9.95,19.9
+1008,1,PVC23DRT,PVC pipe, 3.5-in., 8-ft,5,5.87,29.35
+1008,2,WR3/TT3,Steel matting, 4'x8'x1/6", .5" mesh,3,119.95,359.85
+1008,3,23109-HB,Claw hammer,1,9.95,9.95
+
+Label,TotalUnits,TotalAmount
+SUMMARY,16,444

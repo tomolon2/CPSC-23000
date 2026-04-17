@@ -1,0 +1,17 @@
+ProductCode,ProductDescription,ProductInDate,QOH,ProductMinimum
+11QER/31,Power painter, 15 psi., 3-nozzle,03-Nov-2021,5,8
+13-Q2/P2,7.25-in. pwr. saw blade,13-Dec-2021,15,32
+14-Q1/L3,9.00-in. pwr. saw blade,13-Nov-2021,12,18
+1546-QQ2,Hrd. cloth, 1/4-in., 2x50,15-Jan-2022,8,15
+1558-QW1,Hrd. cloth, 1/2-in., 3x50,15-Jan-2022,5,23
+2232/QTY,B&D jigsaw, 12-in. blade,30-Dec-2021,5,8
+2232/QWE,B&D jigsaw, 8-in. blade,24-Dec-2021,5,6
+2238/QPD,B&D cordless drill, 1/2-in.,20-Jan-2022,5,12
+23109-HB,Claw hammer,20-Jan-2022,10,23
+23114-AA,Sledge hammer, 12 lb.,02-Jan-2022,5,8
+54778-2T,Rat-tail file, 1/8-in. fine,15-Dec-2021,20,43
+89-WRE-Q,Hicut chain saw, 16 in.,07-Feb-2022,5,11
+PVC23DRT,PVC pipe, 3.5-in., 8-ft,20-Feb-2022,75,188
+SM-18277,1.25-in. metal screw, 25,01-Mar-2022,75,172
+SW-23116,2.5-in. wd. screw, 50,24-Feb-2022,100,237
+WR3/TT3,Steel matting, 4'x8'x1/6", .5" mesh,17-Jan-2022,5,18
